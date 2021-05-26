@@ -1,2 +1,2 @@
 # COP
-thesse all folders contain day wise improvement in java programmings
+these all folders contain day wise improvement in java programming.
